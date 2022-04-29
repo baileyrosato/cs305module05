@@ -2,6 +2,9 @@
 
 In my CS386 class, my group created a web-app called CodeHub that is designed to be a free application that teaches code to people with no experience. CodeHub differs from other teaching applications by having group projects that allow users to interact with one another to emulate real-world scenarios.
 
+### Proposed Feature ###
+Users can create their own coding projects in order to teach others in their group.
+
 ## Contributing ##
 Please read CONTRIBUTING.md for details on our rules and contributors.
 
