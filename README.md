@@ -1,1 +1,4 @@
 # cs305module05
+
+In my CS386 class, my group created a web-app called CodeHub that is designed to be a free application that teaches code to people with no experience. CodeHub differs from other teaching applications by having group projects that allow users to interact with one another to emulate real-world scenarios.
+
